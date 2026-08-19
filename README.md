@@ -1,14 +1,14 @@
 # 💫 Hi 👋, I'm Hrushikesh Gouda
 **A passionate Cloud Engineer || full-stack Engineer || Kafka Admin from India**
 
-Email Me 👉 ✉️ **YUMMY05c@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **011hrushikesh@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** bmw webpage
 - 🌱 **I’m currently learning:** Django
 - 👯 **I’m looking to collaborate on:** currently working on this
 - 🤔 **I’m looking for help with:** Your project 
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** YUMMY05c@gmail.com
+- 📫 **How to reach me:** 011hrushikesh@gmail.com
 - 😄 **Pronouns:** Hrushikesh sir
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 i am a full-stack developer:
